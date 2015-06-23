@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Zombie Apocalypse Simulation
-tagline:          'The end'
-description:      'description'
+title:            Project ZSB
+tagline:          'Simuleren van een apocalypse'
+description:      'Zombie apocalypse simulatie software ontwikkeld tijdens het vak Zoeken, Sturen en Bewegen.'
 url:              zombiea-apocalypse-sim.github.io
 
 author:
-  name:           'authors'
+  name:           'Amor Frans, Julian Main, Olaf van Houten en Yorick de Boer'
 
 paginate:         5
 
