@@ -6,8 +6,8 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
+      <li class="sidebar-nav-item{% if page.title == "Labboek" %} active{% endif %}">
+        <a href="/">Labboek</a>
       </li>
 
       {% comment %}
@@ -27,9 +27,9 @@
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
-      <li class="sidebar-nav-item">Currently v{{ site.version }}</li>
+      <li class="sidebar-nav-item">Huidige v{{ site.version }}</li>
     </ul>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. Alle rechten voorbehouden.</p>
   </div>
 </div>
