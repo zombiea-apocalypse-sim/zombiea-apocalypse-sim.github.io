@@ -21,3 +21,5 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/zombiea-apocalypse-sim/sim
+redcarpet:
+  extensions: ["tables"]
