@@ -8,7 +8,7 @@ title: Resultaten & Discussie
 Voor het project van he vak zoeken, sturen en bewegen is dus een simulator gecreëerd voor een zombie uitbraak. De resultaten zijn in het volgende filmpje te zien. Hier is de simulator weergegeven met verschillende parameters.
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/mAW7lbdkLog" frameborder="0" allowfullscreen></iframe>
+<iframe width="630" height="472" src="https://www.youtube.com/embed/mAW7lbdkLog" frameborder="0" allowfullscreen></iframe>
 
 De groene vakjes representeren een zombie en de roze vakjes representeren een mens. Als er een groep mensen ontstaat wordt deze groep rood. Zo is dus te zien dat als een zombie en mens aanvalt dat deze dat groen wordt in andere woorden de mens wordt een zombie. Ook is te zien dat als een zombie een groep mensen aanvalt dat deze dan verliest. De donker grijze vakjes representeren een zombie die een mens heeft gezien. Andere zombies in de buurt volgen dan deze zombie om de mens dan te doden. Als er wordt op de linker muisknop wordt geklikt dan kan je in de wereld real time extra mensen plaatsen. Hetzelfde geldt voor de rechter muis knop maar dan voor zombies. 
 
