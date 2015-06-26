@@ -10,3 +10,11 @@ De onderzoeksvraag die wij deze week willen beantwoorden is hoe een zombie uitbr
 Een van de deelvragen die hierbij horen is hoe intelligentie te implementeren in de mens en zombie. Hypothese hiervoor is dat dit kan gedaan worden met sensory range. Een zombie volgt een mens als deze in de buurt is. Een mens daarentegen moet vluchten of andere strategieën uitvoeren om van de zombie te ontkomen. 
 
 Een andere deelvraag is in welk programmeertaal wij dit kunnen implementeren. Kandidaten zijn: Python, C++, Prolog en Java. De hypothese hiervoor is dat dit het beste gedaan kan worden met de programmeertaal Java.
+
+
+Onderzoek gedaan door:
+
+* Olaf van Houten
+* Amor Frans
+* Yorick de Boer
+* Julian Main
