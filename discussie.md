@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Discussie
+title: Resultaten & Discussie
 ---
