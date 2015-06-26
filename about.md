@@ -11,6 +11,7 @@ Een van de deelvragen die hierbij horen is hoe intelligentie te implementeren in
 
 Een andere deelvraag is in welk programmeertaal wij dit kunnen implementeren. Kandidaten zijn: Python, C++, Prolog en Java. De hypothese hiervoor is dat dit het beste gedaan kan worden met de programmeertaal Java.
 
+![zombies](https://raw.githubusercontent.com/zombiea-apocalypse-sim/zombiea-apocalypse-sim.github.io/master/public/assets/inleiding.jpg "zombies")
 
 Onderzoek gedaan door:
 
