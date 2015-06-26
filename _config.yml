@@ -17,7 +17,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          1.0
 
 github:
   repo:           https://github.com/zombiea-apocalypse-sim/sim
