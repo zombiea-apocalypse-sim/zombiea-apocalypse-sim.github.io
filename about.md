@@ -14,7 +14,7 @@ Een andere deelvraag is in welk programmeertaal wij dit kunnen implementeren. Ka
 
 Onderzoek gedaan door:
 
-* Olaf van Houten
-* Amor Frans
-* Yorick de Boer
-* Julian Main
+* Olaf van Houten (10424598)
+* Amor Frans (1087844)
+* Yorick de Boer (10786015)
+* Julian Main (10541578)
